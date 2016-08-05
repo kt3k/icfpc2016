@@ -1,0 +1,20 @@
+#!/usr/bin/env node
+
+const argv = require('minimist')(process.argv.slice(2))
+const api = require('../src/api')
+
+const id = argv._[0]
+const file = argv._[1]
+
+function usage() {
+  console.log('./bin/submit [id] [solution file]')
+}
+
+if (!id || !file) {
+  usage()
+  process.exit(1)
+}
+
+api.submitSolution(id, file).then(data => {
+  console.log(data)
+})
