@@ -1,0 +1,11 @@
+#!/usr/bin/env node
+
+const contest = require('../').getContest()
+
+const round = num => Number(Math.floor(num * 10) / 10).toFixed(1)
+
+  console.log(`id\tsize\towner\t#p\tp-score`)
+
+contest.problems.forEach(problem => {
+  console.log(`${problem.id}\t${problem.size}\t${round(problem.ownerScore())}\t${problem.perfectSolutions().length}\t${round(problem.solverPerfectScore())}`)
+})

@@ -16,6 +16,14 @@ class ProblemCollection {
   get length () {
     return this.problems.length
   }
+
+  /**
+   * Iterates the given func on the problems.
+   * @param {function} func The iterator
+   */
+  forEach(func) {
+    this.problems.forEach(func)
+  }
 }
 
 module.exports = ProblemCollection
