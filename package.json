@@ -1,0 +1,23 @@
+{
+  "name": "bystander.js",
+  "version": "1.0.0",
+  "description": "ICFP contest 2016 things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/kt3k/bystander.js.git"
+  },
+  "keywords": [
+    "icfp",
+    "icfpcontest"
+  ],
+  "author": "Yoshiya Hinosawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/kt3k/bystander.js/issues"
+  },
+  "homepage": "https://gitlab.com/kt3k/bystander.js#README"
+}
