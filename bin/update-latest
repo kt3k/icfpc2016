@@ -1,3 +1,7 @@
 #!/bin/sh -eu
 
+./bin/update-snapshots
 
+hash=`./bin/latest-hash`
+
+curl --compressed -L -H Expect: -H 'X-API-Key: 172-0ac62faacd458c296012addac12b8cad' 'http://2016sv.icfpcontest.org/api/blob/'$hash | jq . > latest.json

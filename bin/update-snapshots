@@ -1,3 +1,4 @@
 #!/bin/sh -eu
 
+curl --compressed -L -H Expect: -H 'X-API-Key: 172-0ac62faacd458c296012addac12b8cad' 'http://2016sv.icfpcontest.org/api/snapshot/list' > snapshots.json
 
