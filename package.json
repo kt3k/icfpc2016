@@ -4,7 +4,7 @@
   "description": "ICFP contest 2016 things",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,8 @@
   "homepage": "https://gitlab.com/kt3k/bystander.js#README",
   "devDependencies": {
     "axios": "^0.13.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.1",
     "superagent": "^2.1.0"
   },
   "dependencies": {
