@@ -23,5 +23,8 @@
   "devDependencies": {
     "axios": "^0.13.1",
     "superagent": "^2.1.0"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
   }
 }
