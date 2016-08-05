@@ -1,0 +1,20 @@
+#!/usr/bin/env node
+
+const Solution = require('../src/origami/domain/solution')
+const fs = require('fs')
+
+const file = process.argv[2]
+const rot = process.argv[3]
+
+if (!file || !rot) {
+  console.log('Usage: ./bin/rotate-solution [file] [rot]')
+  process.exit()
+}
+
+const text = fs.readFileSync(file).toString()
+const solution = Solution.parse(text)
+
+solution.rotByStr(rot)
+
+console.log(solution.toString())
+
