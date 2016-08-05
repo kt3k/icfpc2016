@@ -2,7 +2,7 @@
   "name": "bystander.js",
   "version": "1.0.0",
   "description": "ICFP contest 2016 things",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "mocha test/**/*.js"
   },
