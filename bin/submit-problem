@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+
+const api = require('../src/api')
+const argv = require('minimist')(process.argv.slice(2))
+
+const index = argv._[0]
+const file = argv._[1]
+
+if (!index || !file) {
+  console.log('Usage: ./bin/submit-problem [index] [file]')
+}
+
+api.submitProblem(index, file).then(data => {
+  console.log(data)
+})
