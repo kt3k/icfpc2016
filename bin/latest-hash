@@ -1,0 +1,3 @@
+#!/bin/sh
+
+jq -r '.snapshots | reverse[0].snapshot_hash' < snapshots.json
