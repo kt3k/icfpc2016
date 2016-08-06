@@ -1,0 +1,6 @@
+#!/bin/sh -eu
+
+echo Start downloading all problems:
+./bin/problems | awk '{print $1}' | xargs -L1 ./bin/dl-problem
+
+echo Finished downloading all problems:
