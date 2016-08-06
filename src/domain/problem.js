@@ -47,6 +47,20 @@ class Problem {
   perfectSolutions () {
     return this.solutions.perfectSolutions()
   }
+
+  /**
+   * Returns the publish index from
+   * @return {number|null}
+   */
+  publishIndex () {
+    const index = (this.publishTime - 1470441600) / 3600
+
+    if (index < 0) {
+      return null
+    }
+
+    return index
+  }
 }
 
 module.exports = Problem
