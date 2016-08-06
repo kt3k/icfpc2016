@@ -13,8 +13,6 @@ describe('ContestFactory', () => {
     it('create a contest from the source object', () => {
       const contest = factory.createFromObject(obj)
 
-      console.log(contest)
-
       expect(contest).to.be.instanceof(Contest)
     })
   })
