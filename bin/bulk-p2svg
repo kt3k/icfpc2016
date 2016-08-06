@@ -1,0 +1,4 @@
+#!/bin/sh -eu
+
+echo Generating svgs from problems
+./bin/problems | awk '{print $1}' | xargs -L1 -IID ./bin/p2svg ./problems/system/ID.txt > svgs/
