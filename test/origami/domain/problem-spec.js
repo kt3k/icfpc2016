@@ -29,5 +29,10 @@ describe('ProblemSpec', () => {
   })
 
   describe('toSvg', () => {
+    it('returns a svg string', () => {
+      const problem = ProblemSpec.parse(text)
+
+      expect(problem.toSvg()).to.be.a('string')
+    })
   })
 })

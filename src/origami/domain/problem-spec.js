@@ -4,6 +4,7 @@ const Skeleton = require('./skeleton')
 const Polygon = require('./polygon')
 const Point = require('./point')
 const Silhouette = require('./silhouette')
+const SvgRenderService = require('./svg-render-service')
 
 /**
  * The problem model.
@@ -61,6 +62,7 @@ class ProblemSpec {
    * @return {string}
    */
   toSvg () {
+    return new SvgRenderService().render(this)
   }
 }
 
