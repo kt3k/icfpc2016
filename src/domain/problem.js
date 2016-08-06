@@ -27,14 +27,14 @@ class Problem {
    * @return {number}
    */
   ownerScore () {
-    return (5000 - this.size) / this.n()
+    return (5000 - this.solutionSize) / this.n()
   }
 
   /**
    * @return {number}
    */
   solverPerfectScore () {
-    return this.size / this.n()
+    return this.solutionSize / this.n()
   }
 
   n () {
