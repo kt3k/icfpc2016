@@ -1,0 +1,29 @@
+#!/usr/bin/env node
+
+const fs = require('fs')
+const contest = require('../').getContest()
+const {getBlobText} = require('../src/api')
+
+const wait = n => new Promise(resolve => setTimeout(resolve, n))
+
+const id = +process.argv[2]
+
+if (!id) {
+  console.log('Downloads the problem of the given id')
+  console.log('Usage: ./bin/dl-problem [index]')
+  process.exit()
+}
+
+const problem = contest.problemById(id)
+
+console.log(`Getting the problem of the id: ${id}`)
+
+
+wait(1000)
+.then(() => getBlobText(problem.specHash))
+.then(text => {
+  fs.writeFileSync(`problems/system/${id}.txt`)
+  console.log(`Saved to problems/system/${id}.txt`)
+}).catch(err => {
+  console.log(err.stack)
+})

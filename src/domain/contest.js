@@ -10,6 +10,13 @@ class Contest {
   constructor ({problems}) {
     this.problems = problems
   }
+
+  /**
+   * @return {Problem}
+   */
+  problemById (id) {
+    return this.problems.getById(id)
+  }
 }
 
 module.exports = Contest

@@ -32,3 +32,17 @@ exports.submitProblem = (index, file) => new Promise((resolve, reject) => {
     .field('publish_time', 1470441600 + index * 3600)
     .end((err, data) => { if (err) { reject(err) } else resolve(data.body) })
 })
+
+exports.getBlobText = hash => new Promise((resolve, reject) => {
+  request
+    .get(API + '/blob/' + hash)
+    .set('X-API-KEY', API_KEY)
+    .end((err, data) => { if (err) { reject(err) } else resolve(data.text) })
+})
+
+exports.getBlobJson = hash => new Promise((resolve, reject) => {
+  request
+    .get(API + '/blob/' + hash)
+    .set('X-API-KEY', API_KEY)
+    .end((err, data) => { if (err) { reject(err) } else resolve(data.body) })
+})

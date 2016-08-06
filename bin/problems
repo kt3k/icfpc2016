@@ -7,5 +7,5 @@ const round = num => Number(Math.floor(num * 10) / 10).toFixed(1)
 console.log(`id\towner\tindex\tsize\to-score\t#p\tp-score`)
 
 contest.problems.forEach(problem => {
-  console.log(`${problem.id}\tu${problem.owner.id}\t${problem.publishIndex()}\t${problem.size}\t${round(problem.ownerScore())}\t${problem.perfectSolutions().length}\t${round(problem.solverPerfectScore())}`)
+  console.log(`${problem.id}\tu${problem.owner.id}\tt${problem.publishIndex()}\t${problem.size}\t${round(problem.ownerScore())}\t${problem.perfectSolutions().length}\t${round(problem.solverPerfectScore())}`)
 })

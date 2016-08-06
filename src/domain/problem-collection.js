@@ -9,8 +9,12 @@ class ProblemCollection {
    */
   constructor (problems = []) {
     this.problems = []
+    this.dict = {}
 
-    problems.forEach(problem => this.problems.push(problem))
+    problems.forEach(problem => {
+      this.problems.push(problem)
+      this.dict[problem.id] = problem
+    })
   }
 
   get length () {
@@ -23,6 +27,13 @@ class ProblemCollection {
    */
   forEach(func) {
     this.problems.forEach(func)
+  }
+
+  /**
+   * Gets by the id.
+   */
+  getById (id) {
+    return this.dict[id]
   }
 }
 
