@@ -5,14 +5,14 @@
  */
 class Polygon {
   /**
-   * @param {Point[]} points
+   * @param {Point[]} vertices
    */
-  constructor (points = []) {
-    this.points = points.map(x => x)
+  constructor (vertices = []) {
+    this.vertices = vertices.map(x => x)
   }
 
   get length () {
-    return this.points.length
+    return this.vertices.length
   }
 }
 

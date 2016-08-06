@@ -13,6 +13,8 @@ class SvgRenderService {
    */
   render(problem) {
     return nunjucks.renderString(svgTmpl, {
+      silhouette: problem.silhouette,
+      skeleton: problem.skeleton
     })
   }
 }

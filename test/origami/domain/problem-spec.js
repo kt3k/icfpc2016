@@ -33,6 +33,7 @@ describe('ProblemSpec', () => {
       const problem = ProblemSpec.parse(text)
 
       expect(problem.toSvg()).to.be.a('string')
+      console.log(problem.toSvg())
     })
   })
 })

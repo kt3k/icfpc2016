@@ -14,10 +14,28 @@
     stroke="hsl(206,100%,53%)"
     stroke-width="3"
     transform="" />
+  {% for polygon in silhouette.polygons %}
   <path
-    d="M 0 0 L 100 0 L 100 100 L 0 100 L 0 50 L 50 50 z"
+    d="M {% for vertex in polygon.vertices %}
+      {{vertex.x.times(100).toDecimal()}}
+      {{vertex.y.times(100).toDecimal()}}
+      {% if loop.last %}z{% else %}L{% endif %}
+    {% endfor %}"
     fill="hsla(0,0%,50%,0.3)"
     stroke="hsla(0,0%,50%,1)"
     stroke-width="1"
-    transform="scale(1,-1) translate(0,-100)" />
+    transform="scale(1,-1) translate(0,-100)"
+    />
+  {% endfor %}
+  {% for edge in skeleton.edges %}
+  <line
+    x1="{{edge.start.x.times(100)}}"
+    y1="{{edge.start.y.times(100)}}"
+    x2="{{edge.end.x.times(100)}}"
+    y2="{{edge.end.y.times(100)}}"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="scale(1,-1) translate(0,-100)"
+    />
+  {% endfor %}
 </svg>
