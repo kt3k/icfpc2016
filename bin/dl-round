@@ -1,0 +1,12 @@
+#!/bin/sh -eu
+
+if [ -z ${1-} ]; then
+  echo 'Usage: ./bin/dl-round [round]'
+  echo
+  echo 'Example: ./bin/dl-round null'
+  echo 'Example: ./bin/dl-round 3'
+  exit
+fi
+
+echo Start downloading round: $1
+./bin/problems | grep '\['$1'\]' | awk '{print $1}' | xargs -L1 ./bin/dl-problem
