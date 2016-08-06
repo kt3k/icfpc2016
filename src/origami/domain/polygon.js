@@ -1,4 +1,5 @@
 
+const Point = require('./point')
 
 /**
  * The polygon model.
@@ -13,6 +14,13 @@ class Polygon {
 
   get length () {
     return this.vertices.length
+  }
+
+  /**
+   * @return {Point}
+   */
+  avgPoint () {
+    return Point.avg(this.vertices)
   }
 }
 

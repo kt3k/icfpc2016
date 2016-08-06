@@ -1,4 +1,4 @@
-
+const Point = require('./point')
 
 /**
  * The silhouette model.
@@ -19,6 +19,10 @@ class Silhouette {
    */
   get (i) {
     return this.polygons[i]
+  }
+
+  avgPoint () {
+    return Point.avg(this.polygons.map(polygon => polygon.avgPoint()))
   }
 }
 
