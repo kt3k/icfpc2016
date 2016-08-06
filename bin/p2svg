@@ -1,0 +1,18 @@
+#!/usr/bin/env node
+
+const fs = require('fs')
+const ProblemSpec = require('../src/origami/domain/problem-spec')
+
+const file = process.argv[2]
+
+if (!file) {
+  console.log('Converts the problem spec to svg file')
+  console.log('Usage: ./bin/p2svg [file]')
+  process.exit()
+}
+
+const text = fs.readFileSync(file).toString()
+
+const spec = ProblemSpec.parse(text)
+
+console.log(spec.toSvg())
