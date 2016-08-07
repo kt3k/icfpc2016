@@ -4,7 +4,7 @@
 <svg
   width="240"
   height="240"
-  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  viewBox="-500 -500 1000 1000" xmlns="http://www.w3.org/2000/svg" version="1.1">
   <rect
     x="0"
     y="0"
@@ -40,7 +40,7 @@
     fill="hsla(0,0%,50%,0.3)"
     stroke="hsla(0,0%,50%,1)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   
@@ -51,7 +51,7 @@
     y2="296.9197709409649"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -61,7 +61,7 @@
     y2="233.22795925535652"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -71,7 +71,7 @@
     y2="291.6068620901269"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -81,7 +81,7 @@
     y2="275.71874814206694"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -91,7 +91,7 @@
     y2="277.728886756238"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -101,7 +101,7 @@
     y2="273.9389060107772"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -111,7 +111,7 @@
     y2="257.4234008880938"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -121,7 +121,7 @@
     y2="252.85882316545505"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -131,7 +131,7 @@
     y2="252.85882316545505"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -141,7 +141,7 @@
     y2="296.9197709409649"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -151,7 +151,7 @@
     y2="235.11640367757866"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -161,7 +161,7 @@
     y2="257.4234008880938"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -171,7 +171,7 @@
     y2="291.6068620901269"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -181,7 +181,7 @@
     y2="277.728886756238"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
   <line
@@ -191,7 +191,7 @@
     y2="296.9197709409649"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(82.6776943420,-275.3711741640) scale(1,-1) translate(50,-110)"
+    transform="translate(55.7131640545,-257.6758145186)"
     />
   
 </svg>

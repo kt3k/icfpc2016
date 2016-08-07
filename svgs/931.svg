@@ -4,7 +4,7 @@
 <svg
   width="240"
   height="240"
-  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  viewBox="-500 -500 1000 1000" xmlns="http://www.w3.org/2000/svg" version="1.1">
   <rect
     x="0"
     y="0"
@@ -36,7 +36,7 @@
     fill="hsla(0,0%,50%,0.3)"
     stroke="hsla(0,0%,50%,1)"
     stroke-width="1"
-    transform="translate(25.8561643835,-10.6164383561) scale(1,-1) translate(50,-110)"
+    transform="translate(0,0)"
     />
   
   
@@ -47,7 +47,7 @@
     y2="-4.794520547945205"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(25.8561643835,-10.6164383561) scale(1,-1) translate(50,-110)"
+    transform="translate(0,0)"
     />
   
   <line
@@ -57,7 +57,7 @@
     y2="4.794520547945205"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(25.8561643835,-10.6164383561) scale(1,-1) translate(50,-110)"
+    transform="translate(0,0)"
     />
   
   <line
@@ -67,7 +67,7 @@
     y2="70.54794520547945"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(25.8561643835,-10.6164383561) scale(1,-1) translate(50,-110)"
+    transform="translate(0,0)"
     />
   
   <line
@@ -77,7 +77,7 @@
     y2="70.54794520547945"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(25.8561643835,-10.6164383561) scale(1,-1) translate(50,-110)"
+    transform="translate(0,0)"
     />
   
 </svg>

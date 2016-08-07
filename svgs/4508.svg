@@ -4,7 +4,7 @@
 <svg
   width="240"
   height="240"
-  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  viewBox="-500 -500 1000 1000" xmlns="http://www.w3.org/2000/svg" version="1.1">
   <rect
     x="0"
     y="0"
@@ -36,7 +36,7 @@
     fill="hsla(0,0%,50%,0.3)"
     stroke="hsla(0,0%,50%,1)"
     stroke-width="1"
-    transform="translate(-37.5,-67) scale(1,-1) translate(50,-110)"
+    transform="translate(-50,-44.6666666666)"
     />
   
   
@@ -47,7 +47,7 @@
     y2="0"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(-37.5,-67) scale(1,-1) translate(50,-110)"
+    transform="translate(-50,-44.6666666666)"
     />
   
   <line
@@ -57,7 +57,7 @@
     y2="89.33333333333333"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(-37.5,-67) scale(1,-1) translate(50,-110)"
+    transform="translate(-50,-44.6666666666)"
     />
   
   <line
@@ -67,7 +67,7 @@
     y2="89.33333333333333"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(-37.5,-67) scale(1,-1) translate(50,-110)"
+    transform="translate(-50,-44.6666666666)"
     />
   
   <line
@@ -77,7 +77,7 @@
     y2="9.666666666666666"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(-37.5,-67) scale(1,-1) translate(50,-110)"
+    transform="translate(-50,-44.6666666666)"
     />
   
   <line
@@ -87,7 +87,7 @@
     y2="14.666666666666666"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(-37.5,-67) scale(1,-1) translate(50,-110)"
+    transform="translate(-50,-44.6666666666)"
     />
   
   <line
@@ -97,7 +97,7 @@
     y2="88.66666666666667"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(-37.5,-67) scale(1,-1) translate(50,-110)"
+    transform="translate(-50,-44.6666666666)"
     />
   
   <line
@@ -107,7 +107,7 @@
     y2="89.33333333333333"
     stroke="hsla(0,50%,50%,0.6)"
     stroke-width="1"
-    transform="translate(-37.5,-67) scale(1,-1) translate(50,-110)"
+    transform="translate(-50,-44.6666666666)"
     />
   
 </svg>
