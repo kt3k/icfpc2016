@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="240"
+  height="240"
+  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="hsla(206,100%,53%,0.3)"
+    stroke="hsl(206,100%,53%)"
+    stroke-width="3"
+    transform="" />
+  
+  <path
+    d="M 
+      37.5
+      -12.5
+      L
+    
+      50
+      0
+      L
+    
+      54.1666666666
+      0
+      L
+    
+      56.25
+      -6.25
+      L
+    
+      62.5
+      -12.5
+      L
+    
+      112.5
+      -12.5
+      L
+    
+      100
+      0
+      L
+    
+      100
+      4.1666666666
+      L
+    
+      106.25
+      6.25
+      L
+    
+      112.5
+      12.5
+      L
+    
+      112.5
+      62.5
+      L
+    
+      100
+      50
+      L
+    
+      95.8333333333
+      50
+      L
+    
+      93.75
+      56.25
+      L
+    
+      87.5
+      62.5
+      L
+    
+      37.5
+      62.5
+      L
+    
+      50
+      50
+      L
+    
+      50
+      45.8333333333
+      L
+    
+      43.75
+      43.75
+      L
+    
+      37.5
+      37.5
+      z
+    "
+    fill="hsla(0,0%,50%,0.3)"
+    stroke="hsla(0,0%,50%,1)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  
+  <line
+    x1="106.25"
+    y1="6.25"
+    x2="112.5"
+    y2="12.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="87.5"
+    y1="0"
+    x2="100"
+    y2="12.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="75"
+    y1="0"
+    x2="100"
+    y2="25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="56.25"
+    y1="-6.25"
+    x2="81.25"
+    y2="18.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="37.5"
+    x2="112.5"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="87.5"
+    y1="0"
+    x2="106.25"
+    y2="6.25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="37.5"
+    y1="-12.5"
+    x2="68.75"
+    y2="18.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="81.25"
+    y1="31.25"
+    x2="112.5"
+    y2="62.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="56.25"
+    y1="-6.25"
+    x2="75"
+    y2="0"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="37.5"
+    y1="0"
+    x2="50"
+    y2="12.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="68.75"
+    y1="31.25"
+    x2="93.75"
+    y2="56.25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="62.5"
+    y1="-12.5"
+    x2="112.5"
+    y2="-12.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="50"
+    y1="25"
+    x2="75"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="81.25"
+    y1="18.75"
+    x2="100"
+    y2="25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="50"
+    y1="37.5"
+    x2="62.5"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="50"
+    y1="12.5"
+    x2="68.75"
+    y2="18.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="37.5"
+    y1="0"
+    x2="62.5"
+    y2="0"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="37.5"
+    y1="37.5"
+    x2="43.75"
+    y2="43.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="37.5"
+    y1="-12.5"
+    x2="37.5"
+    y2="37.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="50"
+    y1="37.5"
+    x2="50"
+    y2="62.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="62.5"
+    y1="-12.5"
+    x2="62.5"
+    y2="0"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="87.5"
+    y1="50"
+    x2="87.5"
+    y2="62.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="-12.5"
+    x2="100"
+    y2="12.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="112.5"
+    y1="12.5"
+    x2="112.5"
+    y2="62.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="81.25"
+    y1="31.25"
+    x2="100"
+    y2="37.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="50"
+    y1="25"
+    x2="68.75"
+    y2="31.25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="12.5"
+    x2="112.5"
+    y2="12.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="56.25"
+    y1="-6.25"
+    x2="50"
+    y2="12.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="50"
+    y1="25"
+    x2="43.75"
+    y2="43.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="75"
+    y1="50"
+    x2="93.75"
+    y2="56.25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="75"
+    y1="0"
+    x2="68.75"
+    y2="18.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="68.75"
+    y1="31.25"
+    x2="62.5"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="62.5"
+    y1="-12.5"
+    x2="56.25"
+    y2="-6.25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="43.75"
+    y1="43.75"
+    x2="62.5"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="87.5"
+    y1="0"
+    x2="81.25"
+    y2="18.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="81.25"
+    y1="31.25"
+    x2="75"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="62.5"
+    y1="0"
+    x2="50"
+    y2="12.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="106.25"
+    y1="6.25"
+    x2="100"
+    y2="25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="37.5"
+    x2="93.75"
+    y2="56.25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="37.5"
+    y1="37.5"
+    x2="50"
+    y2="37.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="75"
+    y1="0"
+    x2="50"
+    y2="25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="-12.5"
+    x2="87.5"
+    y2="0"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="68.75"
+    y1="18.75"
+    x2="43.75"
+    y2="43.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="87.5"
+    y1="50"
+    x2="112.5"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="112.5"
+    y1="-12.5"
+    x2="81.25"
+    y2="18.75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="68.75"
+    y1="31.25"
+    x2="37.5"
+    y2="62.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="106.25"
+    y1="6.25"
+    x2="81.25"
+    y2="31.25"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="62.5"
+    y1="50"
+    x2="50"
+    y2="62.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="37.5"
+    y1="62.5"
+    x2="87.5"
+    y2="62.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="25"
+    x2="75"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="37.5"
+    x2="87.5"
+    y2="50"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="93.75"
+    y1="56.25"
+    x2="87.5"
+    y2="62.5"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-43.1178808212,-42.2723054885) scale(1,-1) translate(50,-110)"
+    />
+  
+</svg>

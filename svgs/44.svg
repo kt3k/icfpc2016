@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="240"
+  height="240"
+  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="hsla(206,100%,53%,0.3)"
+    stroke="hsl(206,100%,53%)"
+    stroke-width="3"
+    transform="" />
+  
+  <path
+    d="M 
+      0
+      0
+      L
+    
+      100
+      0
+      L
+    
+      100
+      3.9255665216
+      L
+    
+      110.1578155341
+      3.5935752420
+      L
+    
+      132.7081903327
+      31.4685535884
+      L
+    
+      100
+      57.9289131920
+      L
+    
+      0
+      10.2016404647
+      z
+    "
+    fill="hsla(0,0%,50%,0.3)"
+    stroke="hsla(0,0%,50%,1)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  
+  <line
+    x1="110.15781553415822"
+    y1="3.5935752420225002"
+    x2="132.70819033279454"
+    y2="31.468553588430478"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="0"
+    y1="0"
+    x2="100"
+    y2="0"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="0"
+    y1="0"
+    x2="0"
+    y2="10.20164046479836"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="0"
+    x2="100"
+    y2="57.928913192071086"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="3.874459673233005"
+    y1="7.06726967936365"
+    x2="25.647012209888693"
+    y2="22.44225992860887"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="3.874459673233005"
+    y1="7.06726967936365"
+    x2="0"
+    y2="10.20164046479836"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="110.15781553415822"
+    y1="3.5935752420225002"
+    x2="3.874459673233005"
+    y2="7.06726967936365"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="0"
+    y1="10.20164046479836"
+    x2="100"
+    y2="57.928913192071086"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="25.647012209888693"
+    y1="22.44225992860887"
+    x2="81.61058952128536"
+    y2="38.2777054040699"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="81.61058952128536"
+    y1="38.2777054040699"
+    x2="78.8996661069956"
+    y2="47.85829928859171"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="110.15781553415822"
+    y1="3.5935752420225002"
+    x2="78.8996661069956"
+    y2="47.85829928859171"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="132.70819033279454"
+    y1="31.468553588430478"
+    x2="100"
+    y2="57.928913192071086"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-53.1608872624,-23.8638901353) scale(1,-1) translate(50,-110)"
+    />
+  
+</svg>
