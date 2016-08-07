@@ -13,6 +13,16 @@ if (!file) {
   process.exit()
 }
 
+const refuseList = `
+problems/system/1486.txt
+problems/system/4811.txt
+`.trim().split('\n')
+
+if (refuseList.some(refuse => file.includes(refuse))) {
+  console.log(`Refuse to convert ${file}`)
+  process.exit()
+}
+
 console.log('Converting problem file to svg:', file)
 
 const text = fs.readFileSync(file).toString()
