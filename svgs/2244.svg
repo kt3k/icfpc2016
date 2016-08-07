@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="240"
+  height="240"
+  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="hsla(206,100%,53%,0.3)"
+    stroke="hsl(206,100%,53%)"
+    stroke-width="3"
+    transform="" />
+  
+  <path
+    d="M 
+      100
+      50
+      L
+    
+      123.5294117647
+      94.1176470588
+      L
+    
+      35.2941176470
+      141.1764705882
+      L
+    
+      13.3333333333
+      100
+      L
+    
+      0
+      100
+      L
+    
+      0
+      75
+      z
+    "
+    fill="hsla(0,0%,50%,0.3)"
+    stroke="hsla(0,0%,50%,1)"
+    stroke-width="1"
+    transform="translate(-10.8578431372,-88.3272058823) scale(1,-1) translate(50,-110)"
+    />
+  
+  
+  <line
+    x1="100"
+    y1="50"
+    x2="123.52941176470588"
+    y2="94.11764705882354"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-10.8578431372,-88.3272058823) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="0"
+    y1="75"
+    x2="0"
+    y2="100"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-10.8578431372,-88.3272058823) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="50"
+    x2="100"
+    y2="100"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-10.8578431372,-88.3272058823) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="0"
+    y1="75"
+    x2="35.294117647058826"
+    y2="141.1764705882353"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-10.8578431372,-88.3272058823) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="50"
+    x2="0"
+    y2="75"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-10.8578431372,-88.3272058823) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="0"
+    y1="100"
+    x2="100"
+    y2="100"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-10.8578431372,-88.3272058823) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="123.52941176470588"
+    y1="94.11764705882354"
+    x2="35.294117647058826"
+    y2="141.1764705882353"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-10.8578431372,-88.3272058823) scale(1,-1) translate(50,-110)"
+    />
+  
+</svg>

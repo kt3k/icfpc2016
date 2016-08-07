@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="240"
+  height="240"
+  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="hsla(206,100%,53%,0.3)"
+    stroke="hsl(206,100%,53%)"
+    stroke-width="3"
+    transform="" />
+  
+  <path
+    d="M 
+      738.6666666666
+      571
+      L
+    
+      756.6666666666
+      595
+      L
+    
+      755.6666666666
+      602
+      L
+    
+      762.6666666666
+      603
+      L
+    
+      738.6666666666
+      621
+      L
+    
+      731.6666666666
+      620
+      L
+    
+      730.6666666666
+      627
+      L
+    
+      712.6666666666
+      603
+      L
+    
+      713.6666666666
+      596
+      L
+    
+      706.6666666666
+      595
+      L
+    
+      730.6666666666
+      577
+      L
+    
+      737.6666666666
+      578
+      z
+    "
+    fill="hsla(0,0%,50%,0.3)"
+    stroke="hsla(0,0%,50%,1)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  
+  <line
+    x1="738.6666666666666"
+    y1="571"
+    x2="756.6666666666666"
+    y2="595"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="730.6666666666666"
+    y1="577"
+    x2="742.6666666666666"
+    y2="593"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="722.6666666666666"
+    y1="583"
+    x2="746.6666666666666"
+    y2="615"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="726.6666666666666"
+    y1="605"
+    x2="738.6666666666666"
+    y2="621"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="712.6666666666666"
+    y1="603"
+    x2="730.6666666666666"
+    y2="627"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="750.6666666666666"
+    y1="587"
+    x2="754.6666666666666"
+    y2="609"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="744.6666666666666"
+    y1="579"
+    x2="748.6666666666666"
+    y2="601"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="742.6666666666666"
+    y1="593"
+    x2="746.6666666666666"
+    y2="615"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="736.6666666666666"
+    y1="585"
+    x2="740.6666666666666"
+    y2="607"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="728.6666666666666"
+    y1="591"
+    x2="732.6666666666666"
+    y2="613"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="722.6666666666666"
+    y1="583"
+    x2="726.6666666666666"
+    y2="605"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="720.6666666666666"
+    y1="597"
+    x2="724.6666666666666"
+    y2="619"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="714.6666666666666"
+    y1="589"
+    x2="718.6666666666666"
+    y2="611"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="714.6666666666666"
+    y1="589"
+    x2="712.6666666666666"
+    y2="603"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="722.6666666666666"
+    y1="583"
+    x2="718.6666666666666"
+    y2="611"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="728.6666666666666"
+    y1="591"
+    x2="724.6666666666666"
+    y2="619"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="738.6666666666666"
+    y1="571"
+    x2="730.6666666666666"
+    y2="627"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="744.6666666666666"
+    y1="579"
+    x2="740.6666666666666"
+    y2="607"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="750.6666666666666"
+    y1="587"
+    x2="746.6666666666666"
+    y2="615"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="756.6666666666666"
+    y1="595"
+    x2="754.6666666666666"
+    y2="609"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="730.6666666666666"
+    y1="577"
+    x2="744.6666666666666"
+    y2="579"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="722.6666666666666"
+    y1="583"
+    x2="750.6666666666666"
+    y2="587"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="714.6666666666666"
+    y1="589"
+    x2="742.6666666666666"
+    y2="593"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="706.6666666666666"
+    y1="595"
+    x2="762.6666666666666"
+    y2="603"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="726.6666666666666"
+    y1="605"
+    x2="754.6666666666666"
+    y2="609"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="718.6666666666666"
+    y1="611"
+    x2="746.6666666666666"
+    y2="615"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="724.6666666666666"
+    y1="619"
+    x2="738.6666666666666"
+    y2="621"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="744.6666666666666"
+    y1="579"
+    x2="722.6666666666666"
+    y2="583"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="736.6666666666666"
+    y1="585"
+    x2="714.6666666666666"
+    y2="589"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="750.6666666666666"
+    y1="587"
+    x2="728.6666666666666"
+    y2="591"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="742.6666666666666"
+    y1="593"
+    x2="720.6666666666666"
+    y2="597"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="748.6666666666666"
+    y1="601"
+    x2="726.6666666666666"
+    y2="605"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="740.6666666666666"
+    y1="607"
+    x2="718.6666666666666"
+    y2="611"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="730.6666666666666"
+    y1="577"
+    x2="706.6666666666666"
+    y2="595"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="754.6666666666666"
+    y1="609"
+    x2="732.6666666666666"
+    y2="613"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="746.6666666666666"
+    y1="615"
+    x2="724.6666666666666"
+    y2="619"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="728.6666666666666"
+    y1="591"
+    x2="712.6666666666666"
+    y2="603"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="750.6666666666666"
+    y1="587"
+    x2="718.6666666666666"
+    y2="611"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="756.6666666666666"
+    y1="595"
+    x2="740.6666666666666"
+    y2="607"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="762.6666666666666"
+    y1="603"
+    x2="738.6666666666666"
+    y2="621"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-729.6842447916,-583.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+</svg>

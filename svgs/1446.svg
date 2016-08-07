@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="240"
+  height="240"
+  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="hsla(206,100%,53%,0.3)"
+    stroke="hsl(206,100%,53%)"
+    stroke-width="3"
+    transform="" />
+  
+  <path
+    d="M 
+      0.0000000000
+      0
+      L
+    
+      99.6226415094
+      8.6792452830
+      L
+    
+      45.4716981132
+      54.1509433962
+      L
+    
+      -4.3396226415
+      49.8113207547
+      z
+    "
+    fill="hsla(0,0%,50%,0.3)"
+    stroke="hsla(0,0%,50%,1)"
+    stroke-width="1"
+    transform="translate(-21.6509433962,-39.5283018867) scale(1,-1) translate(50,-110)"
+    />
+  
+  
+  <line
+    x1="5.0031837284182915e-46"
+    y1="0"
+    x2="45.471698113207545"
+    y2="54.15094339622642"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-21.6509433962,-39.5283018867) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="5.0031837284182915e-46"
+    y1="0"
+    x2="99.62264150943396"
+    y2="8.679245283018869"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-21.6509433962,-39.5283018867) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="5.0031837284182915e-46"
+    y1="0"
+    x2="-4.339622641509433"
+    y2="49.81132075471698"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-21.6509433962,-39.5283018867) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="-4.339622641509433"
+    y1="49.81132075471698"
+    x2="45.471698113207545"
+    y2="54.15094339622642"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-21.6509433962,-39.5283018867) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="99.62264150943396"
+    y1="8.679245283018869"
+    x2="45.471698113207545"
+    y2="54.15094339622642"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-21.6509433962,-39.5283018867) scale(1,-1) translate(50,-110)"
+    />
+  
+</svg>

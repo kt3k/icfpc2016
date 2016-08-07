@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="240"
+  height="240"
+  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="hsla(206,100%,53%,0.3)"
+    stroke="hsl(206,100%,53%)"
+    stroke-width="3"
+    transform="" />
+  
+  <path
+    d="M 
+      610
+      480
+      L
+    
+      621.6666666666
+      481.6666666666
+      L
+    
+      620
+      493.3333333333
+      L
+    
+      606.6666666666
+      503.3333333333
+      L
+    
+      603.3333333333
+      526.6666666666
+      L
+    
+      593.3333333333
+      513.3333333333
+      L
+    
+      590
+      536.6666666666
+      L
+    
+      570
+      510
+      z
+    "
+    fill="hsla(0,0%,50%,0.3)"
+    stroke="hsla(0,0%,50%,1)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  
+  <line
+    x1="583.3333333333334"
+    y1="500"
+    x2="603.3333333333334"
+    y2="526.6666666666666"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="570"
+    y1="510"
+    x2="590"
+    y2="536.6666666666666"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="596.6666666666666"
+    y1="490"
+    x2="590"
+    y2="536.6666666666666"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="610"
+    y1="480"
+    x2="603.3333333333334"
+    y2="526.6666666666666"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="621.6666666666666"
+    y1="481.6666666666667"
+    x2="620"
+    y2="493.3333333333333"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="610"
+    y1="480"
+    x2="621.6666666666666"
+    y2="481.6666666666667"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="596.6666666666666"
+    y1="490"
+    x2="620"
+    y2="493.3333333333333"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="610"
+    y1="480"
+    x2="570"
+    y2="510"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="608.3333333333334"
+    y1="491.6666666666667"
+    x2="575"
+    y2="516.6666666666666"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="620"
+    y1="493.3333333333333"
+    x2="580"
+    y2="523.3333333333334"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-582.6432291666,-517.2005208333) scale(1,-1) translate(50,-110)"
+    />
+  
+</svg>

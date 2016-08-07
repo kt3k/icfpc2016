@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="240"
+  height="240"
+  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="hsla(206,100%,53%,0.3)"
+    stroke="hsl(206,100%,53%)"
+    stroke-width="3"
+    transform="" />
+  
+  <path
+    d="M 
+      672
+      521
+      L
+    
+      690
+      545
+      L
+    
+      689
+      552
+      L
+    
+      696
+      553
+      L
+    
+      672
+      571
+      L
+    
+      665
+      570
+      L
+    
+      664
+      577
+      L
+    
+      646
+      553
+      L
+    
+      647
+      546
+      L
+    
+      640
+      545
+      L
+    
+      664
+      527
+      L
+    
+      671
+      528
+      z
+    "
+    fill="hsla(0,0%,50%,0.3)"
+    stroke="hsla(0,0%,50%,1)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  
+  <line
+    x1="672"
+    y1="521"
+    x2="690"
+    y2="545"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="664"
+    y1="527"
+    x2="676"
+    y2="543"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="656"
+    y1="533"
+    x2="680"
+    y2="565"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="660"
+    y1="555"
+    x2="672"
+    y2="571"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="646"
+    y1="553"
+    x2="664"
+    y2="577"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="684"
+    y1="537"
+    x2="688"
+    y2="559"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="678"
+    y1="529"
+    x2="682"
+    y2="551"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="676"
+    y1="543"
+    x2="680"
+    y2="565"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="670"
+    y1="535"
+    x2="674"
+    y2="557"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="662"
+    y1="541"
+    x2="666"
+    y2="563"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="656"
+    y1="533"
+    x2="660"
+    y2="555"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="654"
+    y1="547"
+    x2="658"
+    y2="569"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="648"
+    y1="539"
+    x2="652"
+    y2="561"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="648"
+    y1="539"
+    x2="646"
+    y2="553"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="656"
+    y1="533"
+    x2="652"
+    y2="561"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="662"
+    y1="541"
+    x2="658"
+    y2="569"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="672"
+    y1="521"
+    x2="664"
+    y2="577"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="678"
+    y1="529"
+    x2="674"
+    y2="557"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="684"
+    y1="537"
+    x2="680"
+    y2="565"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="690"
+    y1="545"
+    x2="688"
+    y2="559"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="664"
+    y1="527"
+    x2="678"
+    y2="529"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="656"
+    y1="533"
+    x2="684"
+    y2="537"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="648"
+    y1="539"
+    x2="676"
+    y2="543"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="640"
+    y1="545"
+    x2="696"
+    y2="553"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="660"
+    y1="555"
+    x2="688"
+    y2="559"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="652"
+    y1="561"
+    x2="680"
+    y2="565"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="658"
+    y1="569"
+    x2="672"
+    y2="571"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="678"
+    y1="529"
+    x2="656"
+    y2="533"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="670"
+    y1="535"
+    x2="648"
+    y2="539"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="684"
+    y1="537"
+    x2="662"
+    y2="541"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="676"
+    y1="543"
+    x2="654"
+    y2="547"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="682"
+    y1="551"
+    x2="660"
+    y2="555"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="664"
+    y1="527"
+    x2="640"
+    y2="545"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="674"
+    y1="557"
+    x2="652"
+    y2="561"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="688"
+    y1="559"
+    x2="666"
+    y2="563"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="662"
+    y1="541"
+    x2="646"
+    y2="553"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="680"
+    y1="565"
+    x2="658"
+    y2="569"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="684"
+    y1="537"
+    x2="652"
+    y2="561"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="690"
+    y1="545"
+    x2="674"
+    y2="557"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="696"
+    y1="553"
+    x2="672"
+    y2="571"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-663.017578125,-533.1201171875) scale(1,-1) translate(50,-110)"
+    />
+  
+</svg>

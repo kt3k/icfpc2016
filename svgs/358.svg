@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="240"
+  height="240"
+  viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="hsla(206,100%,53%,0.3)"
+    stroke="hsl(206,100%,53%)"
+    stroke-width="3"
+    transform="" />
+  
+  <path
+    d="M 
+      100.0000000000
+      1099.9999999999
+      L
+    
+      100.0000000000
+      1199.9999999999
+      L
+    
+      0.0000000000
+      1199.9999999999
+      L
+    
+      0.0000000000
+      1099.9999999999
+      z
+    "
+    fill="hsla(0,0%,50%,0.3)"
+    stroke="hsla(0,0%,50%,1)"
+    stroke-width="1"
+    transform="translate(-25.0000000000,-1137.4999999999) scale(1,-1) translate(50,-110)"
+    />
+  
+  
+  <line
+    x1="100"
+    y1="1100"
+    x2="99.99999999999999"
+    y2="1200"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-25.0000000000,-1137.4999999999) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="2.4986345947201614e-18"
+    y1="1099.9999999999998"
+    x2="2.7714281222901103e-18"
+    y2="1200"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-25.0000000000,-1137.4999999999) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="100"
+    y1="1100"
+    x2="2.4986345947201614e-18"
+    y2="1099.9999999999998"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-25.0000000000,-1137.4999999999) scale(1,-1) translate(50,-110)"
+    />
+  
+  <line
+    x1="99.99999999999999"
+    y1="1200"
+    x2="2.7714281222901103e-18"
+    y2="1200"
+    stroke="hsla(0,50%,50%,0.6)"
+    stroke-width="1"
+    transform="translate(-25.0000000000,-1137.4999999999) scale(1,-1) translate(50,-110)"
+    />
+  
+</svg>
