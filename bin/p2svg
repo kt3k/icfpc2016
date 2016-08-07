@@ -1,18 +1,29 @@
 #!/usr/bin/env node
 
 const fs = require('fs')
+const argv = require('minimist')(process.argv.slice(2))
 const ProblemSpec = require('../src/origami/domain/problem-spec')
 
-const file = process.argv[2]
+const file = argv._[0]
+const output = argv.output
 
 if (!file) {
   console.log('Converts the problem spec to svg file')
-  console.log('Usage: ./bin/p2svg [file]')
+  console.log('Usage: ./bin/p2svg [file] [--output [output]]')
   process.exit()
 }
+
+console.log('Converting problem file to svg:', file)
 
 const text = fs.readFileSync(file).toString()
 
 const spec = ProblemSpec.parse(text)
 
-console.log(spec.toSvg())
+const svg = spec.toSvg()
+
+if (output) {
+  fs.writeFileSync(output, svg)
+  console.log('Writing to file:', output)
+} else {
+  console.log(svg)
+}
