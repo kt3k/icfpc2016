@@ -1,0 +1,23 @@
+#!/usr/bin/env node
+
+const Solution = require('../src/origami/domain/solution')
+const fs = require('fs')
+
+const file = process.argv[2]
+const times = +process.argv[3]
+
+if (!file || !times) {
+  console.log('Rotate the solution the given times (The angle is random)')
+  console.log('Usage: ./bin/rotate-solution [file] [times]')
+  process.exit()
+}
+
+const text = fs.readFileSync(file).toString()
+const solution = Solution.parse(text)
+
+for (let i = 0; i < times; i++) {
+  const rot = require('../src/rand-rot')()
+  solution.rotByStr(rot)
+}
+
+console.log(solution.toString())
