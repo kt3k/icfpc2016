@@ -25,6 +25,35 @@ class Point {
 
     return new Point({x, y})
   }
+
+  /**
+   * @param {Point[]}
+   * @return {rational}
+   */
+  static top (points) {
+    return points.map(p => p.x).reduce((x0, x1) => x0.gt(x1) ? x0 : x1)
+  }
+  /**
+   * @param {Point[]}
+   * @return {rational}
+   */
+  static bottom (points) {
+    return points.map(p => p.x).reduce((x0, x1) => x0.lt(x1) ? x0 : x1)
+  }
+  /**
+   * @param {Point[]}
+   * @return {rational}
+   */
+  static left (points) {
+    return points.map(p => p.y).reduce((y0, y1) => y0.lt(y1) ? y0 : y1)
+  }
+  /**
+   * @param {Point[]}
+   * @return {rational}
+   */
+  static right (points) {
+    return points.map(p => p.y).reduce((y0, y1) => y0.gt(y1) ? y0 : y1)
+  }
 }
 
 module.exports = Point

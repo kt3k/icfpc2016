@@ -24,6 +24,10 @@ class Silhouette {
   avgPoint () {
     return Point.avg(this.polygons.map(polygon => polygon.avgPoint()))
   }
+
+  center () {
+    return Point.avg(this.polygons.map(polygon => polygon.center()))
+  }
 }
 
 module.exports = Silhouette

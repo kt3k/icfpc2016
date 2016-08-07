@@ -20,9 +20,10 @@ class SvgRenderService {
   }
 
   calcTransform (problem) {
-    const center = problem.silhouette.avgPoint()
+    const center = problem.silhouette.center()
 
-    return `translate(${center.x.times(-100).toDecimal()},${center.y.times(-100).toDecimal()}) scale(1,-1) translate(50,-110)`
+    return `translate(${center.y.times(-100).toDecimal()},${center.x.times(-100).toDecimal()})`
+    //return `translate(${center.x.times(-100).toDecimal()},${center.y.times(-100).toDecimal()}) scale(1,-1) translate(50,-100)`
   }
 }
 
