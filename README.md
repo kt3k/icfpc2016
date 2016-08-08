@@ -8,6 +8,25 @@
 - Languages: JavaScript, shell, nunjucks
 - Rank: 47 (in the last snapshot)
 
+# Directories
+
+```
+.
+├── bin          # executable commands
+├── experiments  # random things
+├── problems     # problem submissions & other teams' problems
+│   ├── hand     # hand written problems
+│   └── system   # other teams' problems
+├── solutions    # my solutions
+│   └── hand     # solutions by hand
+├── src          # source codes
+│   ├── domain   # contest snapshot things
+│   └── origami  # origami things
+├── svgs         # rendered svg files
+└── test         # unit tests
+    └── fixture  # test fixtures
+```
+
 # note
 
 Visualization of `problem/system/1486.txt` causes `FATAL ERROR` of node v6.3.1.
