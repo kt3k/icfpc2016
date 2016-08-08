@@ -2,6 +2,12 @@
 
 > ICFP contest 2016 things
 
+# Info
+
+- Team member: @kt3k
+- Languages: JavaScript, shell, nunjucks
+- Rank: 47 (in the last snapshot)
+
 # note
 
 Visualization of `problem/system/1486.txt` causes `FATAL ERROR` of node v6.3.1.
