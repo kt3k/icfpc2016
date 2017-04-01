@@ -21,7 +21,7 @@
   },
   "homepage": "https://gitlab.com/kt3k/bystander.js#README",
   "devDependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.16.0",
     "chai": "^3.5.0",
     "mocha": "^3.0.1",
     "superagent": "^3.3.2"
