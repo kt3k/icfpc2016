@@ -27,7 +27,7 @@
     "superagent": "^3.3.2"
   },
   "dependencies": {
-    "big-rational": "^0.10.5",
+    "big-rational": "^0.10.6",
     "minimist": "^1.2.0",
     "nunjucks": "^3.0.0"
   }
