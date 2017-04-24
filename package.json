@@ -23,7 +23,7 @@
   "devDependencies": {
     "axios": "^0.16.0",
     "chai": "^3.5.0",
-    "mocha": "^3.0.1",
+    "mocha": "^3.3.0",
     "superagent": "^3.3.2"
   },
   "dependencies": {
