@@ -29,6 +29,6 @@
   "dependencies": {
     "big-rational": "^0.10.5",
     "minimist": "^1.2.0",
-    "nunjucks": "^3.0.0"
+    "nunjucks": "^3.0.1"
   }
 }
